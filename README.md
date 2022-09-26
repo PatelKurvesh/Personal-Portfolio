@@ -3,6 +3,8 @@
 <b>Hosted Link :- </b> https://kurvesh-portfolio.000webhostapp.com/
 <br>
 <b>Github page Link :- </b> https://patelkurvesh.github.io/Personal-Portfolio/
+<br>
+
 It is a static website of my personal portfolio. Fully responsive.
 <ul>
 <li>This is a static website for my personal portfolio.   </li>
