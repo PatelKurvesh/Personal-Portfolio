@@ -43,6 +43,11 @@ section{
     color:var(--main-color);
     text-transform: uppercase;
 }
+#circle{
+    height: 120px;
+    
+}
+
 .btn{
     display: inline-block;
     margin-top: 1rem;
